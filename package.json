@@ -16,13 +16,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/tomerkon/homepage.git"
+    "url": "https://github.com/tomerkon/tomerkon.github.io.git"
   },
   "keywords": [
     "kon40"
   ],
   "author": "Tomer",
-  "homepage": "http://EffectiveBuilding.co",
+  "homepage": "http://kon40.com",
   "engines": {
     "node": "0.12.x"
   }
