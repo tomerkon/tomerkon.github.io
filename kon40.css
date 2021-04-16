@@ -73,20 +73,6 @@
     width: 110px;
 }
 
-.master1 > .menuItem:hover > .menuItemDesign, .master1 .selected.menuItem:hover .menuItemDesign {
-    background-color: #000000;
-    border-style: none;
-    -webkit-border-radius: 5px;
-    -moz-border-radius: 5px;
-    border-radius: 5px;
-    color: #ffffff;
-    font-family: Cabin;
-    font-size: 18px;
-    font-weight: 400;
-    line-height: 22px;
-    text-align: center;
-}
-
 .master1 .selected .menuItemDesign {
     background-color: #000000;
     border-style: none;
