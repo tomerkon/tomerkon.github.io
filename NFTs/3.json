@@ -1,0 +1,15 @@
+{
+  "name": "TomerK NFT",
+  "description": "TomerK NFT",
+  "image": "http://kon40.com/NFTs/3.png",
+  "attributes": [
+    {
+      "trait_type": "Developer",
+      "value": "Tomer K"
+    },
+    {
+      "trait_type": "Website",
+      "value": "https://kon40.com"
+    }
+  ]
+}
